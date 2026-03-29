@@ -39,9 +39,9 @@
     "@transmute/json-web-signature": "^0.7.0-unstable.82",
     "@transmute/jsonld": "0.0.4",
     "@transmute/security-context": "0.7.0-unstable.2",
-    "crypto-ld": "^3.7.0",
+    "crypto-ld": "^7.0.0",
     "jsonld-signatures": "^9.3.0",
-    "tsdx": "^0.13.2",
+    "tsdx": "^2.0.0",
     "tslib": "^2.3.0",
     "typescript": "^3.9.5"
   },

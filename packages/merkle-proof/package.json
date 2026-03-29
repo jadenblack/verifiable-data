@@ -33,7 +33,7 @@
     "@settlemint/merkle-tools": "^1.0.7",
     "@types/jest": "^27.4.0",
     "ts-jest": "^27.1.2",
-    "tsdx": "^0.14.1",
+    "tsdx": "^2.0.0",
     "tslib": "^2.3.1",
     "typescript": "^4.5.4"
   },
